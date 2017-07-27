@@ -1,1 +1,1 @@
-# stanford-aa228
+# Reinforcement Learning - Stanford-aa228/cs238
